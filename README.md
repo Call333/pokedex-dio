@@ -18,3 +18,5 @@ por pesquisa e o ponto de onde iniciará a sua pesquisa, por exemplo, a partir d
 
 const limit = 10;
 let offset = 0;
+
+att. Calebe
