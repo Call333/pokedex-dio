@@ -148,6 +148,7 @@
     border: none;
     border-radius: 1rem ;
     font-size: .625rem;
+    cursor: pointer;
 }
 
 @media screen and (min-width: 380px) {
