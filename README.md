@@ -4,7 +4,7 @@ Pokedex criada no Bootcamp Potência Tech Angular Developer;
 
 Atualmente ela só mostra os pokemons da primera geração.
 
-##Como mostrar mais pokemons?##
+##Como mostrar mais pokemons?
 
 Baixe o projeto e vá no arquivo main.js, nele você encontrará uma variável com o nome maxRecords que terá o valor padrão de 151.
 
